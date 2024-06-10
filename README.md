@@ -1,8 +1,23 @@
-# React + Vite
+<h1 align="center">MARVEL APP</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+<img width="800" alt="Home page" src="https://github.com/mathieustrosberg/marvel-app/blob/main/src/assets/images/home.png" />
+</p>
 
-Currently, two official plugins are available:
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Click on this link to take a look at the project : soon
+
+<br />
+
+## About this project
+
+Welcome to the GitHub repository for Marvel-app, a web application built with React and designed for fans of the Marvel universe. This project utilizes React Router for navigation and provides an elegant and responsive user interface to explore Marvel characters and comics.
+
+Technologies used:
+
+React
+Node.js
+Express
+MongoDB
+Tailwind CSS

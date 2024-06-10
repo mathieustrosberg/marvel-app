@@ -1,7 +1,7 @@
 <h1 align="center">MARVEL APP</h1>
 
 <p align="center">
-<img width="800" alt="Home page" src="https://github.com/mathieustrosberg/marvel-app/blob/main/src/assets/images/home.png" />
+<img width="800" alt="Home page" src="https://github.com/mathieustrosberg/marvel-app-front/blob/main/src/assets/img/home.png" />
 </p>
 
 <br />

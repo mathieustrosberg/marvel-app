@@ -6,7 +6,7 @@
 
 <br />
 
-Click on this link to take a look at the project : soon
+Click on this link to take a look at the project : https://marvel-app-front.vercel.app/
 
 <br />
 

@@ -20,4 +20,4 @@ React
 Node.js
 Express
 MongoDB
-Tailwind CSS
+DaisyUI

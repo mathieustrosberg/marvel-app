@@ -16,8 +16,8 @@ Welcome to the GitHub repository for Marvel-app, a web application built with Re
 
 Technologies used:
 
-React
-Node.js
-Express
-MongoDB
+React,
+Node.js,
+Express,
+MongoDB,
 DaisyUI
